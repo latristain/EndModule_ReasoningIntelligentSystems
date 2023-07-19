@@ -1,2 +1,2 @@
 # EndModule_ReasoningIntelligentSystems
-A Genetic Algorithm for Sudoku was made
+A Genetic Algorithm for a game similar to Sudoku was Made
